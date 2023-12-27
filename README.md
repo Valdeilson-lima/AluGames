@@ -1,2 +1,3 @@
-# AluGames
- Projeto Alura 
+AluGAmes
+
+Projeto desenvolvido no curso de programação para iniciantes
